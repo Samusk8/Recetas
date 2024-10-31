@@ -1,0 +1,31 @@
+body {
+    margin: 0%;
+}
+header {
+    width: 100%;
+    background-color: rgb(214, 214, 214);
+}
+
+nav {
+    background-color: rgb(247, 173, 148);
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+#avatar {
+    margin-right: 8px;
+}
+
+.menu {
+    display:flex;
+    justify-content: center;
+}
+.izq {
+    width: 50%;
+}
+a {
+    padding:3;
+}
