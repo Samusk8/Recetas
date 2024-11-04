@@ -23,9 +23,29 @@ nav {
     display:flex;
     justify-content: center;
 }
+.menu2 {
+    width: 100%;
+    align-items: center;
+    margin-left: 6%;
+}
 .izq {
     width: 50%;
 }
 a {
-    padding:3;
+    padding:1%;
+    color: rgba(0, 0, 0, 0.733);
+    text-decoration: none;
+}
+a:hover {
+    color: grey;
+    text-decoration: underline;
+}
+span p{
+    color: rgb(97, 96, 96);
+}
+span a {
+    color: black;
+}
+.flexbox {
+    display: flex;
 }
